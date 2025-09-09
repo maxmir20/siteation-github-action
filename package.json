@@ -1,0 +1,15 @@
+{
+  "name": "siteation-github-action",
+  "version": "1.0.0",
+  "description": "This is the Site-ation github action that will access a repo's Pull Request Issue Comment, identify if there is a Siteation block, and then pass that block to an API",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "smee-client": "^4.3.1"
+  }
+}
